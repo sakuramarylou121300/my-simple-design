@@ -1,0 +1,22 @@
+.back-button{
+    font-size: 15px;
+    border-radius: 2.5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(104, 104, 104);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.next-button{
+    font-size: 15px;
+    border-radius: 2.5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(104, 104, 104);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+}

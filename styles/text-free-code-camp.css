@@ -1,0 +1,15 @@
+p{
+    font-family: Arial;
+}
+.org{
+    font-weight: bold;
+}
+.org-time{
+    color:  rgb(96, 96, 96);
+}
+.details{
+    width: 500px;
+}
+.link{
+    color:rgb(78, 78, 255);
+}
