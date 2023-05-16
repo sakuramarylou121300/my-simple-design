@@ -1,0 +1,36 @@
+.p-request-ride{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+input{
+    width: 250px;
+    height: 40px;
+    border: none;
+    background-color: rgb(247, 246, 246);
+    font-family: Arial;
+}
+.input-location{
+    margin-top: 0;
+    display: block;
+}
+.input-destination{
+    margin-top: 5px;
+    display: block;
+}
+button{
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+
+}
+.button-request{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}

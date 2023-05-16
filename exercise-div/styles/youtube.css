@@ -1,0 +1,19 @@
+.div-youtube{
+    background-color: rgb(56, 55, 55);
+    border-color: gray;
+    width: 350px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: Arial;
+}
+.p-install-yt{
+    font-weight: bold;
+    color: white;
+}
+
+.p-music-yt{
+    color: rgb(207, 205, 205);
+    font-size: 12px;
+
+}

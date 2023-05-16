@@ -1,0 +1,31 @@
+.label-linkedIn-signup{
+    font-family: Arial;
+    font-size: 12px;
+    color: gray;
+    margin-left: 20px;
+}
+.input-linkedIn-signup{
+    width: 300px;
+    height: 20px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+p{
+    font-family: Arial;
+    font-size: 12px;
+    color: gray;
+    margin-left: 20px;
+}
+.agree-join{
+    background-color: rgba(21, 151, 226, 0.87);
+    color: white;
+    font-weight: bold;
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-left: 24px;
+}

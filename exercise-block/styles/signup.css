@@ -1,0 +1,29 @@
+input{
+    height: 30px;
+    border-style: solid;
+    border-radius: 8px;
+}
+.input-fname{
+    display: inline;
+    width: 120px;
+}
+.input-mname{
+    display: inline;
+    width: 120px;
+}
+.input-lname{
+    margin-top: 5px;
+    display: block;
+    width: 245px;
+}
+.button-singup{
+    margin-top: 5px;
+    width: 245px;
+    height: 30px;
+    background-color: rgba(41, 141, 255, 0.973);
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+    border-radius: 8px;
+    border: none;
+}

@@ -1,0 +1,6 @@
+.text-box-round{
+    width: 200px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 8px;
+}

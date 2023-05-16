@@ -1,0 +1,27 @@
+.image-tweet{
+    width: 55px;
+    height: 55px;
+    object-fit: cover;
+    object-position: center;
+    vertical-align: top;
+}
+.input-tweet{
+    width: 250px;
+    height: 50px;
+    font-family: Arial;
+    font-size: 15px;
+}
+.button-tweet{
+    background-color:  rgba(21, 151, 226, 0.87);
+    color: white;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 15px;
+    border: none;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 40px;
+}
