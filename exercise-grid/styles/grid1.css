@@ -1,0 +1,11 @@
+.grid1{
+    display: grid;
+    grid-template-columns: 200px 70px;
+
+}
+.twohundred{
+    background-color: lightblue;
+}
+.seventy{
+    background-color: lightpink;
+}
