@@ -1,0 +1,13 @@
+.div-flex{
+    display: flex;
+    border-color: gray;
+    border-style: solid;
+    height: 50px;
+    justify-content: space-between;
+}
+.item1{
+    background-color: lightblue;
+}
+.item2{
+    background-color: lightpink;
+}

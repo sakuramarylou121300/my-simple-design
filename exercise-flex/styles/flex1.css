@@ -1,0 +1,12 @@
+.div-flex{
+    display: flex;
+    flex-direction: row;
+}
+.two-hundred{
+    background-color: lightblue;
+    width: 200px;
+}
+.seventy{
+    background-color: lightpink;
+    width: 75px;
+}
