@@ -1,0 +1,44 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.div-flex-main{
+    width: 300px;
+    box-shadow: 2px 2px 4px rgba(0.50, 0.50, 0.50, 0.30);
+}
+.div-flex-home,
+.div-flex-notification,
+.div-flex-message{
+    margin-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: Roboto;
+    font-size: 15px;
+}
+.home-number,
+.notif-number,
+.message-number{
+    background-color: rgb(68, 68, 255);
+    color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+.div-flex-home{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+.div-flex-notification{
+    display: flex;
+    justify-content: space-between;
+}
+.div-flex-message{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,49 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Roboto;
+}
+.div-flex-submain{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+.profile-pic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    object-fit: cover;
+    object-position: center;
+}
+.p-name{
+    font-weight: 500;
+}
+.p-nickname{
+    font-size: 17px;
+}
+.p-status{
+    font-size: 15px;
+}
+.p-nickname,
+.p-status{
+    color: rgb(87, 86, 86);
+}
+.div-detail{
+    width: 200px;
+    margin-left: 15px;
+}
+.button-follow{
+    background-color: rgb(81, 99, 255);
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: none;
+    padding-top: 0;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 10px;
+    font-family: Roboto;
+    font-weight: 500;
+}
