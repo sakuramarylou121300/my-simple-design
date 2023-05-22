@@ -1,0 +1,36 @@
+.div-position{
+    position: fixed;
+    background-color: green;
+    color: white;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+.div-modal{
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div-empty{
+    width: 500px;
+    height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.modal-title{
+    color: black;
+    padding-bottom: 10px;
+}
+.modal-detail{
+    color: black;
+    padding-bottom: 10px;
+}

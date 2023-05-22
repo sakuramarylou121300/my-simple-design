@@ -1,0 +1,52 @@
+p{
+    font-family: Arial;
+    font-size: 15px;
+}
+.div-main{
+    display: flex;
+}
+.div-profile{
+    position: fixed;
+    background-color: rgb(71, 69, 69);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+}
+.div-message{
+    position: fixed;
+    background-color: rgb(88, 87, 87);
+    top: 0;
+    bottom: 0;
+    left: 50px;
+    width: 200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+img{
+    border: none;
+    border-radius: 100px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    width: 40px;
+}
+.div-message-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.p-info{
+    color: white;
+    font-weight: bold;
+}
+.img-plus{
+   width: 20px;
+   height: 20px;
+}
+.div-new-vid,
+.div-update,
+.div-faq{
+    color: rgb(214, 212, 212);
+}

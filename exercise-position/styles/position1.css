@@ -1,0 +1,7 @@
+.div-position{
+    position: fixed;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    right: 0;
+}
