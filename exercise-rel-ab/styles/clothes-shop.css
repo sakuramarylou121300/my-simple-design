@@ -1,0 +1,43 @@
+.div-bg{
+    background-color: rgb(201, 194, 194);
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
+.clothe{
+    width: 100%;
+}
+.discount{
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background-color: red;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(247, 233, 236, 0.8);
+    height: 100px;
+}
+.add-cart{
+    border: 1px;
+    border-style: solid;
+    background-color: white;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
